@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<appconfig>
+    <datasource>
+        <classname>MysqlDataSource</classname>
+        <drivertype>jdbc</drivertype>
+        <hostName>localhost</hostName>
+        <port>3306</port>
+        <DBName>app</DBName>
+        <user>root</user>
+        <pass>root</pass>
+    </datasource>
+</appconfig>
